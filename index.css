@@ -1,0 +1,36 @@
+.container {
+    -color: green;
+    min-width: 400px;
+
+}
+
+input {
+   height: 3em; 
+   margin-bottom: 5px;
+   width: 100%;
+}
+
+button {
+    background: #5f9341;;
+    color: white;
+    min-width: 100px;
+    height: 3em; 
+    border: none;
+    font-weight: bold;
+}
+
+#delete-btn {
+    color: #5f9341;
+    background-color: white;
+    border-style: solid;
+}
+
+ul {
+    list-style-type: none;
+    font: green;
+    padding-left: 0;
+}
+
+a {
+    color: green;
+}

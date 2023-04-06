@@ -9,4 +9,4 @@ load leads-chrome-extension
 
 ````
 
-<img src="./icon.png" alt="Alt text" title="Optional title">
+<img src="./screenshot.png" alt="screenshot of extension" title="screenshot of extension">

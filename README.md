@@ -9,3 +9,4 @@ load leads-chrome-extension
 
 ````
 
+<img src="./icon.png" alt="Alt text" title="Optional title">

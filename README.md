@@ -1,4 +1,4 @@
-# Note takin' url savin' leg shakin' chrome extension
+# note takin' url savin' leg shakin' chrome extension
 
 Quick start:
 
